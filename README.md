@@ -1,12 +1,19 @@
 <p>
   <h1 align=center>Welcome to my Git profile 👋, I'm Saúl 😁</h1>
 </p>
-<p>I am a college student in progress in the Information Technology Engineering program 
+<p align=justify>I am a college student in progress in the Information Technology Engineering program 
 at the Universidad Politécnica de San Luis Potosi. I am passionate about learning new 
 topics and new technological advances.</p>
 <div align="center">
   <img src="learning.gif" height="400px" />
 </div>
+<p align=justify>
+  Use my technical skills and knowledge to develop innovative solutions, solve 
+technological problems and contribute to the advancement of society through the 
+application of technology. I aim to generate a positive impact, improve people's quality 
+of life and face relevant challenges in areas such as systems development, information 
+security and technological advancement.
+</p>
 
 <p>
   <h1 align=center>Connect with Me 🔗</h1>
@@ -27,7 +34,7 @@ topics and new technological advances.</p>
 </div>
 
 <p>
-  <h1 align="center">Technologies and Tools that I know</h1>
+  <h1 align="center">Technologies and Tools that I know 💻</h1>
 </p>
 <table align="center">
   <tr border="none">
@@ -59,24 +66,14 @@ topics and new technological advances.</p>
 </table>
 
 <p>
-  <h1 align="center">Si</h1>
+  <h1 align="center">📈 Git 📊 Stats 📉</h1>
 </p>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulC18&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulC18&theme=tokyonight&hide_border=false" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulC18&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"  /><br>
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111544778" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111544778&image_size=auto&color_scheme=dark" width="600" height="auto">
+      <img alt="Dashboard stats of @SaulC18" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111544778&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
 </div>
-
-<!--
-**SaulC18/SaulC18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
