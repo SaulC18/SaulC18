@@ -69,7 +69,7 @@ security and technological advancement.
   <h1 align="center">📈 Git 📊 Stats 📉</h1>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulC18&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"  /><br>
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111544778" target="_blank" style="display: block" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111544778&image_size=auto&color_scheme=dark" width="600" height="auto">
@@ -77,3 +77,4 @@ security and technological advancement.
     </picture>
   </a>
 </div>
+<!--![SaulC18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
