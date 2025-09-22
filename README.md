@@ -55,6 +55,7 @@ security and technological advancement.
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="40px" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" height="40px" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vue" height="40px" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="vue" height="40px" />
     </td>
     <td>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="40px" />
